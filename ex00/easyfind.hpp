@@ -14,3 +14,4 @@ typename T::iterator easyfind(T first, int second)
 	else
 		throw std::exception();
 }
+
