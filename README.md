@@ -1,22 +1,13 @@
-# CPP08
+    # CPP08
 
-## Description
-C++ module using templates with containers and iterators.
+    C++ Module 08: STL-friendly templates and custom containers (Span, MutantStack, easyfind).
 
-## Features
-- Span, easyfind, and MutantStack implementations.
+    ## Topics
+    - Template classes interacting with STL iterators/containers.
+    - Range checks, shortest/longest span computations, iterator exposure.
 
-## Technologies Used
-- C++98, STL, Makefile.
+    ## Build & Run
+    - `make`; run sample mains to exercise Span/MutantStack/easyfind.
 
-## Installation
-- Run `make` in the module directory.
-
-## Usage
-- Execute the examples to exercise container behaviors.
-
-## Example
-- Fill a Span and compute shortest/longest spans.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
